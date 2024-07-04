@@ -1,0 +1,100 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "desenvolvimento",
+      "type": "income",
+      "price": 12000,
+      "category": "venda",
+      "createdAt": "2023-09-12T21:16:31.307Z"
+    },
+    {
+      "id": 2,
+      "description": "desenvolvimento",
+      "type": "outcome",
+      "price": 5000,
+      "category": "venda",
+      "createdAt": "2023-09-12T21:16:31.307Z"
+    },
+    {
+      "id": 3,
+      "description": "consultoria",
+      "type": "income",
+      "price": 8000,
+      "category": "serviços",
+      "createdAt": "2023-09-12T22:30:45.123Z"
+    },
+    {
+      "id": 4,
+      "description": "aluguel",
+      "type": "outcome",
+      "price": 2000,
+      "category": "despesas",
+      "createdAt": "2023-09-12T22:30:45.123Z"
+    },
+    {
+      "id": 5,
+      "description": "venda de produtos",
+      "type": "income",
+      "price": 15000,
+      "category": "venda",
+      "createdAt": "2023-09-12T23:45:12.789Z"
+    },
+    {
+      "id": 6,
+      "description": "pagamento de fornecedor",
+      "type": "outcome",
+      "price": 7000,
+      "category": "despesas",
+      "createdAt": "2023-09-12T23:45:12.789Z"
+    },
+    {
+      "id": 7,
+      "description": "freelancer",
+      "type": "income",
+      "price": 6000,
+      "category": "serviços",
+      "createdAt": "2023-09-12T23:45:12.789Z"
+    },
+    {
+      "id": 8,
+      "description": "aluguel",
+      "type": "outcome",
+      "price": 2500,
+      "category": "despesas",
+      "createdAt": "2023-09-12T23:45:12.789Z"
+    },
+    {
+      "description": "carro",
+      "price": 10000,
+      "category": "pessoal",
+      "type": "income",
+      "createdAt": "2023-09-20T18:59:04.500Z",
+      "id": 9
+    },
+    {
+      "description": "Disney",
+      "price": 12000,
+      "category": "Diversão",
+      "type": "outcome",
+      "createdAt": "2023-09-20T21:00:20.894Z",
+      "id": 10
+    },
+    {
+      "description": "Test",
+      "price": 2000,
+      "category": "despesas",
+      "type": "outcome",
+      "createdAt": "2023-10-11T23:40:57.983Z",
+      "id": 11
+    },
+    {
+      "description": "Nova transação",
+      "price": 5000,
+      "category": "Nova categoria",
+      "type": "income",
+      "createdAt": "2023-10-12T12:00:00.000Z",
+      "id": 12
+    }
+  ]
+}
